@@ -1,1 +1,5 @@
 pip install -r requirements.txt
+nltk==3.8.1
+mysql-connector-python==8.0.33
+scikit-learn==1.2.2
+requests==2.31.0
